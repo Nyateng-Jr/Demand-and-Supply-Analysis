@@ -32,3 +32,5 @@ The demand for rides is somewhat sensitive to changes in the number of active dr
 A scatter plot graph was plotted that shows the relationship between the supply ratio and driver activity.
 The data points are scattered in a linear pattern with a slight positive correlation.
 The data points are more densely clustered towards the lower left corner of the graph, indicating that there are more drivers active per hour than rides completed per driver per hour.
+# Project Summary.
+This a short simple project demonstrating how we can analyze demand and supply using Python pragramming language.
